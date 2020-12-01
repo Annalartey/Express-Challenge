@@ -1,0 +1,29 @@
+{
+    "id1": {
+        "name" : "Anna",
+        "employer" : "myself",
+        "role" : "student"
+    },
+    
+   "id2": {
+        "name" : "Blessing",
+        "employer" : "myself",
+        "role" : "student"
+    },
+    "id3" : {
+        "name" : "Georgina",
+        "employer" : "myself",
+        "role" : "student"
+    },
+   "id4": {
+        "name" : "Rachel",
+        "employer" : "myself",
+        "role" : "student"
+    },
+   
+   "id5": {
+        "name" : "David",
+        "employer" : "myself",
+        "role" : "student"
+    }
+}    
